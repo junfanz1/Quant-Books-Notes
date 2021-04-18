@@ -14,6 +14,10 @@ An Introduction to High-Frequency Finance, by Ramazan Gençay, et al.
 
 > https://www.amazon.com/Introduction-High-Frequency-Finance-Ramazan-Gen%C3%A7ay/dp/0122796713
 
+__PDF Notes:__ https://github.com/junfanz1/Quant-Books-Notes/blob/main/An%20Intro%20to%20High-Frequency%20Finance/Notes%20on%20An%20Introduction%20to%20High-Frequency%20Finance.pdf
+
+__Markdown Notes:__ https://github.com/junfanz1/Quant-Books-Notes/blob/main/An%20Intro%20to%20High-Frequency%20Finance/An%20Introduction%20to%20High-Frequency%20Financ.md
+
 # 3. Elements of Programming Interviews in Python: The Insiders' Guide
 
 Elements of Programming Interviews in Python: The Insiders' Guide Paperback – September 15, 2016, by Adnan Aziz, et al.
