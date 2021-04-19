@@ -36,4 +36,10 @@ Volatility Trading, by Euan Sinclair
 
 > https://www.amazon.com/Volatility-Trading-Website-Euan-Sinclair/dp/1118347137/ref=sr_1_6?dchild=1&keywords=volatility+trading&qid=1618418399&sr=8-6
 
+# 6. Machine Learning for Algorithmic Trading
+
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition Paperback – July 31, 2020 by Stefan Jansen 
+
+> https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715
+
 Notes to come..
