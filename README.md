@@ -1,4 +1,4 @@
-# Quant-Books-Notes
+# Quant-Books-Papers-Notes
 Taking notes on Quantitative Finance books
 ==========
 
@@ -42,4 +42,8 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 > https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715
 
+# 7. Quant Finance Recent Research Paper Reading Series
+
 Notes to come..
+
+
