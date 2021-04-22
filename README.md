@@ -42,6 +42,10 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 > https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715
 
+__PDF Notes:__ https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.pdf
+
+__Markdown Notes:__ https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.md
+
 # 7. Quant Finance Recent Research Paper Reading Series
 
 Notes to come..
