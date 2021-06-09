@@ -54,4 +54,9 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 Notes to come..
 
+# 8. Stochastic Volatility Modeling
+
+Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Series) 1st Edition, by Lorenzo Bergomi
+
+> [Book Link](https://www.amazon.com/Stochastic-Volatility-Modeling-Financial-Mathematics/dp/1482244063)
 
