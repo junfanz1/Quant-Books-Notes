@@ -60,3 +60,9 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
 
 > [Book Link](https://www.amazon.com/Stochastic-Volatility-Modeling-Financial-Mathematics/dp/1482244063)
 
+# 9. Quant Job Interview Questions and Answers
+
+Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by Mark Joshi
+
+> [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
+
