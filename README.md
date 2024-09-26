@@ -50,7 +50,7 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.md)
 
-# 7. Quant Finance Recent Research Paper Reading Series
+# 7. Distributed Systems
 
 Notes to come..
 
