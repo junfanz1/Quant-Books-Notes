@@ -22,25 +22,7 @@ An Introduction to High-Frequency Finance, by Ramazan Gençay, et al.
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/An%20Intro%20to%20High-Frequency%20Finance/An%20Introduction%20to%20High-Frequency%20Financ.md)
 
-# 3. Elements of Programming Interviews in Python: The Insiders' Guide
-
-Elements of Programming Interviews in Python: The Insiders' Guide Paperback – September 15, 2016, by Adnan Aziz, et al.
-
-> [Book Link](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)
-
-# 4. Dynamic Hedging: Managing Vanilla and Exotic Options
-
-Dynamic Hedging: Managing Vanilla and Exotic Options, by Taleb, Dec 31, 1996
-
-> [Book Link](https://www.amazon.com/s?k=dynamic+hedging&ref=nb_sb_noss)
-
-# 5. Volatility Trading
-
-Volatility Trading, by Euan Sinclair
-
-> [Book Link](https://www.amazon.com/Volatility-Trading-Website-Euan-Sinclair/dp/1118347137/ref=sr_1_6?dchild=1&keywords=volatility+trading&qid=1618418399&sr=8-6)
-
-# 6. Machine Learning for Algorithmic Trading
+# 3. Machine Learning for Algorithmic Trading
 
 Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition Paperback – July 31, 2020 by Stefan Jansen 
 
@@ -50,11 +32,7 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.md)
 
-# 7. Distributed Systems
-
-Notes to come..
-
-# 8. Stochastic Volatility Modeling
+# 4. Stochastic Volatility Modeling
 
 Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Series) 1st Edition, by Lorenzo Bergomi
 
@@ -67,11 +45,26 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
 - [__Markdown Char 2 Local Vol__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%202%20Local%20Volatility%20Notes.md)
 
 
-
-# 9. Quant Job Interview Questions and Answers
+# 5. Quant Job Interview Questions and Answers
 
 Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by Mark Joshi
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
+- [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
 
-- [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
+
+# 6. Computer Systems - 计算机底层的秘密
+> [Book Link](https://book.douban.com/subject/36370606/)
+
+# 7. Distributed Systems - 深入理解分布式系统
+> [Book Link](https://book.douban.com/subject/35794814/)
+
+# 8. Large Language Models - 预训练语言模型
+
+> [Book Link](https://book.douban.com/subject/35458428/)
+
+# 9. Designing Machine Learning Systems
+> [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+
+# 10. Designing Data-Intensive Applications (DDIA)
+> [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321）
