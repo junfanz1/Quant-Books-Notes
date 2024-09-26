@@ -74,3 +74,4 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
 
+- [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
