@@ -75,4 +75,4 @@ Contact:
 [LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
 
 Leave a message to me:
-[Email](junfanzhu98@gmail.com)
+[junfanzhu98@gmail.com](mailto:junfanzhu98@gmail.com)
