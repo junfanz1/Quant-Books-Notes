@@ -55,7 +55,7 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 
 # 6. Computer Systems - 计算机底层的秘密
 > [Book Link](https://book.douban.com/subject/36370606/)
-- [Overleaf Notes](https://www.overleaf.com/project/66f5c3158adee137eb3c9e65)
+- [Overleaf Notes](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
 
 # 7. Distributed Systems - 深入理解分布式系统
 > [Book Link](https://book.douban.com/subject/35794814/)
@@ -69,3 +69,10 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 
 # 10. Designing Data-Intensive Applications (DDIA)
 > [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321）
+
+
+Contact: 
+[LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
+
+Leave a message to me:
+[Email](junfanzhu98@gmail.com)
