@@ -74,7 +74,7 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 
 ---
 
-Contact: 
+Connect me: 
 [LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
 
 Leave a message to me:
