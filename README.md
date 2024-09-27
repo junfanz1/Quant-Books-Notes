@@ -1,6 +1,8 @@
 # Quant-MLE-Books-Notes
+
 Taking notes on Quantitative Finance & Machine Learning & Computer Science
-==========
+
+---
 
 # 1. C++ Design Patterns and Derivatives Pricing
 
