@@ -70,7 +70,7 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 > [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
 # 10. Designing Data-Intensive Applications (DDIA)
-> [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321）
+> [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
 ---
 
