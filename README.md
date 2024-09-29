@@ -41,9 +41,11 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
 > [Book Link](https://www.amazon.com/Stochastic-Volatility-Modeling-Financial-Mathematics/dp/1482244063)
 
 - [__PDF Char 1 Intro__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%201%20Introduction%20Notes.pdf)
+  
 - [__PDF Char 2 Local Vol__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%202%20Local%20Volatility%20Notes.pdf)
 
 - [__Markdown Char 1 Intro__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%201%20Introduction%20Notes.md)
+  
 - [__Markdown Char 2 Local Vol__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%202%20Local%20Volatility%20Notes.md)
 
 
@@ -57,7 +59,9 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 
 # 6. Computer Systems - 计算机底层的秘密
 > [Book Link](https://book.douban.com/subject/36370606/)
+
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
+  
 - [__Overleaf Notes__](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
 
 # 7. Distributed Systems - 深入理解分布式系统
