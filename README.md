@@ -26,7 +26,7 @@ An Introduction to High-Frequency Finance, by Ramazan Gençay, et al.
 
 # 3. Machine Learning for Algorithmic Trading
 
-Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition Paperback – July 31, 2020 by Stefan Jansen 
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition Paperback – by Stefan Jansen 2020 
 
 > [Book Link](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
 
@@ -51,13 +51,16 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
 
 # 5. Quant Job Interview Questions and Answers
 
-Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by Mark Joshi
+Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 2013 
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
 
 
 # 6. Computer Systems - 计算机底层的秘密
+
+计算机底层的秘密，陆小风 - 2023，电子工业出版社
+
 > [Book Link](https://book.douban.com/subject/36370606/)
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
@@ -65,17 +68,35 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 - [__Overleaf Notes__](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
 
 # 7. Distributed Systems - 深入理解分布式系统
+
+深入理解分布式系统，唐伟志 - 2022，电子工业出版社
+
 > [Book Link](https://book.douban.com/subject/35794814/)
 
 # 8. Language Models - 预训练语言模型
 
+预训练语言模型，邵浩 刘一烽 - 2021，电子工业出版社
+
 > [Book Link](https://book.douban.com/subject/35458428/)
 
 # 9. Designing Machine Learning Systems
+
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
+
 > [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
 # 10. Designing Data-Intensive Applications (DDIA)
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+Book - by Martin Kleppmann
+
 > [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
+# 11. Distributed Machine Learning - 分布式机器学习
+
+分布式机器学习，刘铁岩等 - 2018，机械工业出版社
+
+> [Book Link](https://book.douban.com/subject/30360968/)
 
 ---
 
