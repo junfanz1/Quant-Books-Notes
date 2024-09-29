@@ -67,7 +67,7 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 # 7. Distributed Systems - 深入理解分布式系统
 > [Book Link](https://book.douban.com/subject/35794814/)
 
-# 8. Large Language Models - 预训练语言模型
+# 8. Language Models - 预训练语言模型
 
 > [Book Link](https://book.douban.com/subject/35458428/)
 
