@@ -58,7 +58,7 @@ Quant Job Interview Questions and Answers (Second Edition) – May 25, 2013 by M
 # 6. Computer Systems - 计算机底层的秘密
 > [Book Link](https://book.douban.com/subject/36370606/)
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
-- [Overleaf Notes](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
+- [__Overleaf Notes__](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
 
 # 7. Distributed Systems - 深入理解分布式系统
 > [Book Link](https://book.douban.com/subject/35794814/)
