@@ -54,6 +54,7 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
 Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 2013 
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
+
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
 
 
@@ -97,6 +98,20 @@ Book - by Martin Kleppmann
 分布式机器学习，刘铁岩等 - 2018，机械工业出版社
 
 > [Book Link](https://book.douban.com/subject/30360968/)
+
+# 12. The Elements of Quantitative Investing
+
+The Elements of Quantitative Investing - by Giuseppe Paleologo 2025
+
+> [Book Link](https://booksonfirst.com/book/9781394265459)
+
+# 13. System Design Interview
+
+System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, Chinese translation 2023
+
+> [Book Link](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+
+# 14.
 
 ---
 
