@@ -58,7 +58,7 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
 
 
-# 6. Computer Systems - 计算机底层的秘密
+# 6. Computer Systems
 
 计算机底层的秘密，陆小风 - 2023，电子工业出版社
 
@@ -68,13 +68,13 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
   
 - [__Overleaf Notes__](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
 
-# 7. Distributed Systems - 深入理解分布式系统
+# 7. Distributed Systems
 
 深入理解分布式系统，唐伟志 - 2022，电子工业出版社
 
 > [Book Link](https://book.douban.com/subject/35794814/)
 
-# 8. Language Models - 预训练语言模型
+# 8. Language Models
 
 预训练语言模型，邵浩 刘一烽 - 2021，电子工业出版社
 
@@ -93,7 +93,7 @@ Book - by Martin Kleppmann
 
 > [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
-# 11. Distributed Machine Learning - 分布式机器学习
+# 11. Distributed Machine Learning
 
 分布式机器学习，刘铁岩等 - 2018，机械工业出版社
 
