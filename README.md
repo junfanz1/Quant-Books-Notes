@@ -66,8 +66,6 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
   
-- [__Overleaf Notes__](https://www.overleaf.com/read/qnypcdngqjhr#69ab81)
-
 # 7. Distributed Systems
 
 深入理解分布式系统，唐伟志 - 2022，电子工业出版社
