@@ -44,6 +44,71 @@ $PE(pos, 2i) = \sin(pos / 10000^{2i/d_{model}})$
 
 $PE(pos, 2i + 1) = \cos(pos / 10000^{2i/d_{model}})$
 
+# 3. Deploy ML Applications?
 
+用Nginx部署机器学习应用
 
+1. 准备ML应用，用Flask或FastAPI开发接口，把模型预测功能暴露出来
+   
+```python
+@app.route('/predict', methods=['POST'])
+def predict():
+  data = request.json
+  result = model.predict([data['input']])
+  return jsonify({'prediction': result[0]})
+```
+
+用Gunicorn运行
+
+```bash
+gunicorn -w 4 -b 0.0.0.0:5000 app:app
+```
+
+2. 安装Nginx
+
+```bash
+sudo apt update && sudo apt install nginx
+sudo systemctl start nginx
+```
+
+3. 配置Nginx reverse proxy
+```bash
+sudo nano /etc/nginx/sites-available/ml_app
+```
+写入：
+```nginx
+server {
+  listen 80;
+  location/{
+    proxy_pass http://127.0.0.1:5000;
+  }
+}
+```
+启用配置：
+```bash
+sudo ln -s/etc/nginx/sites-available/ml_app/etc/nginx/sites-enabled/
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+4. 配置HTTPS
+用Certbot一键开启SSL：
+```bash
+sudo apt install certbot python3-certbot-nginx
+sudo certbot --nginx -d <域名>
+```
+
+# 4.MLOps：Model health in Prod?
+
+1. 监控输入数据
+- 数据漂移：生产数据和训练数据分布是否一致，特征均值和方差
+- 数据质量：用自动化工具看缺失值、异常值问题
+2. 跟踪模型表现
+- 预测漂移：模型输出是否变化 ，如分类概率分布偏移
+- 性能指标：评估准确率，特别是有标签反馈时
+- 响应时间：延迟报警，确保预测速度稳定
+3. 资源监控
+4. 配置告警和日志
+5. 防止模型退化
+- 检查漂移（输入输出关系变化），检测模型是否需要更新
+- 构建自动化的数据-模型-系统全链路监控，可视化工具
 
