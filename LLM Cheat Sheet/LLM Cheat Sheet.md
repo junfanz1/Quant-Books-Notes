@@ -1,7 +1,16 @@
 ML/LLM Cheat Sheet
 ---
 
-[[TOC]]
+[目录](https://bitdowntoc.derlin.ch/)
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [1. Transformer如何设定learning rate?](#1-transformerlearning-rate)
+- [2. Transformer: Why Positional Encoding?](#2-transformer-why-positional-encoding)
+- [3. Deploy ML Applications?](#3-deploy-ml-applications)
+- [4.MLOps：Model health in Prod?](#4mlopsmodel-health-in-prod)
+
+<!-- TOC end -->
 
 
 
