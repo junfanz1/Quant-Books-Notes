@@ -1,14 +1,15 @@
 ML/LLM Cheat Sheet
 ---
 
-[目录](https://bitdowntoc.derlin.ch/)
+[Contents](https://bitdowntoc.derlin.ch/)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [1. Transformer如何设定learning rate?](#1-transformerlearning-rate)
 - [2. Transformer: Why Positional Encoding?](#2-transformer-why-positional-encoding)
 - [3. Deploy ML Applications?](#3-deploy-ml-applications)
-- [4.MLOps：Model health in Prod?](#4mlopsmodel-health-in-prod)
+- [4. MLOps：Model health in Prod?](#4-mlopsmodel-health-in-prod)
+- [5. 如何优化RAG？](#5-rag)
 
 <!-- TOC end -->
 
@@ -110,7 +111,7 @@ sudo apt install certbot python3-certbot-nginx
 sudo certbot --nginx -d <域名>
 ```
 
-# 4.MLOps：Model health in Prod?
+# 4. MLOps：Model health in Prod?
 
 1. 监控输入数据
 - 数据漂移：生产数据和训练数据分布是否一致，特征均值和方差
@@ -129,3 +130,22 @@ sudo certbot --nginx -d <域名>
 - 检查漂移（输入输出关系变化），检测模型是否需要更新
 - 构建自动化的数据-模型-系统全链路监控，可视化工具
 
+# 5. 如何优化RAG？
+
+1. 优化Retrieval Component
+- 构建高质量知识库，确保知识库是最新高质量内容，通过筛选和过滤，提升检索相关性。
+- 微调检索器，使其更能理解和优化排序内容
+- 用领域特定的嵌入。预训练的嵌入模型通常缺乏专业领域特异性，可以对嵌入模型微调，用领域适配的语言模型，提供语义匹配精准度。
+- 添加上下文过滤器，通过标签、元数据等过滤条件，将检索范围限定在子领域，提升准确度，确保只获取相关知识库内容。
+2. 增强generation component
+- 特定领域文本上微调生成器。生成模型微调，使其掌握语言风格、术语和表达方式，生成专业性更强、准确的回复。
+- 结合知识基础的训练，用特定领域问答进行训练，让模型准确引用检索内容，避免依赖通用知识。
+- 优化输出格式，如科学文献引用、分布指令。
+3. 优化检索与生成的互动
+- 实现重排序技术。检索后，用交叉编码器或相关性评分对检索到的段落重排序，确保生成器获取最丰富信息的上下文。
+- 用查询扩展技术。用同义词或相关术语扩展查询，提高检索器捕捉重要内容的概率。
+- 调整检索到的文档或token数量，确保生成器既能获取上下文，又不至于超载，提高效率。
+4. 优化索引技术
+- 分层索引策略。将知识库按领域分层索引，加快特定领域文档的检索速度，让检索器快速定位到子领域。
+- 动态索引更新。对知识频繁变化的部分，用动态索引或定期更新索引，确保内容最新。
+- 用向量索引加快语义搜索，如FAISS工具提高效率。
