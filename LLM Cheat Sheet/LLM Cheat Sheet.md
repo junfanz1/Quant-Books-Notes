@@ -1,7 +1,8 @@
 ML/LLM Cheat Sheet
 ---
 
-`[TOC]`
+[[TOC]]
+
 
 
 # 1. Transformer如何设定learning rate?
