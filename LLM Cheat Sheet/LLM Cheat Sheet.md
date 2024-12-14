@@ -1,7 +1,7 @@
 ML/LLM Cheat Sheet
 ---
 
-# 1 Transformer如何设定learning rate?
+# 1. Transformer如何设定learning rate?
 
 Learning rate是训练Transformer的超参数，决定了优化过程中每次迭代的步长大小，显著影响模型的收敛速度和最终性能。
 
