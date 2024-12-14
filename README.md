@@ -123,7 +123,7 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 # 15. ML/LLM Cheat Sheet
 
-- [_ Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
+- [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
 
 ---
 
