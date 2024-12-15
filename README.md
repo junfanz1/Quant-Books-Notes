@@ -1,6 +1,6 @@
 # Quant-MLE-Readings-Notes
 
-Taking notes on Quantitative Finance & Machine Learning & Computer Science
+Taking notes on Quant Finance, Machine Learning & Computer Science
 
 ---
 
