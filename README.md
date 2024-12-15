@@ -14,7 +14,7 @@ C++ Design Patterns and Derivatives Pricing (Mathematics, Finance and Risk, Seri
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing.md)
 
-# 2. An Introduction to High-Frequency Finance
+# 2. High-Frequency Finance
 
 An Introduction to High-Frequency Finance, by Ramazan Gençay, et al.
 
@@ -48,15 +48,13 @@ Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Serie
   
 - [__Markdown Char 2 Local Vol__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%202%20Local%20Volatility%20Notes.md)
 
-
-# 5. Quant Job Interview Questions and Answers
+# 5. Quant Job Interview Questions
 
 Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 2013 
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
-
 
 # 6. Computer Systems
 
@@ -66,44 +64,7 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
   
-# 7. Distributed Systems
-
-深入理解分布式系统，唐伟志 - 2022，电子工业出版社
-
-> [Book Link](https://book.douban.com/subject/35794814/)
-
-# 8. Language Models
-
-预训练语言模型，邵浩 刘一烽 - 2021，电子工业出版社
-
-> [Book Link](https://book.douban.com/subject/35458428/)
-
-# 9. Designing Machine Learning Systems
-
-Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
-
-> [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
-
-# 10. Designing Data-Intensive Applications (DDIA)
-
-Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-Book - by Martin Kleppmann
-
-> [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-
-# 11. Distributed Machine Learning
-
-分布式机器学习，刘铁岩等 - 2018，机械工业出版社
-
-> [Book Link](https://book.douban.com/subject/30360968/)
-
-# 12. The Elements of Quantitative Investing
-
-The Elements of Quantitative Investing - by Giuseppe Paleologo 2025
-
-> [Book Link](https://booksonfirst.com/book/9781394265459)
-
-# 13. System Design Interview
+# 7. System Design Interview
 
 System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, Chinese translation 2023
 
@@ -111,7 +72,7 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/System%20Design/Notes%20on%20System%20Design.pdf)
 
-# 14. Big Data and AI in Finance, Econometrics and Statistics Conference, 2024 Oct 3-5, UChicago
+# 8. Big Data and AI in Finance, Econometrics and Statistics Conference, 2024 Oct 3-5, UChicago
 
 > [Abstract PDF](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Big%20Data%20AI%20in%20Finance%2C%20Econometrics%2C%20Statistics%20Conference%202024/BDAI-2024%20Abstracts.pdf)
 
@@ -121,7 +82,7 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 > [Conference Review Notes PDF](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Big%20Data%20AI%20in%20Finance%2C%20Econometrics%2C%20Statistics%20Conference%202024/Big_Data_Finance_Conference_Notes.pdf) 
 
-# 15. Machine Learning/Large Language Models Interviews Cheatsheet
+# 9. Machine Learning/Large Language Models Interviews Cheatsheet
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
 
@@ -132,3 +93,44 @@ Connect me:
 
 Leave a message to me:
 [junfanzhu98@gmail.com](mailto:junfanzhu98@gmail.com)
+
+---
+
+Future Readings:
+
+# 10. Distributed Systems
+
+深入理解分布式系统，唐伟志 - 2022，电子工业出版社
+
+> [Book Link](https://book.douban.com/subject/35794814/)
+
+# 11. Language Models
+
+预训练语言模型，邵浩 刘一烽 - 2021，电子工业出版社
+
+> [Book Link](https://book.douban.com/subject/35458428/)
+
+# 12. Designing Machine Learning Systems
+
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
+
+> [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+
+# 13. Designing Data-Intensive Applications (DDIA)
+
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+Book - by Martin Kleppmann
+
+> [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
+# 14. Distributed Machine Learning
+
+分布式机器学习，刘铁岩等 - 2018，机械工业出版社
+
+> [Book Link](https://book.douban.com/subject/30360968/)
+
+# 15. The Elements of Quantitative Investing
+
+The Elements of Quantitative Investing - by Giuseppe Paleologo 2025
+
+> [Book Link](https://booksonfirst.com/book/9781394265459)
