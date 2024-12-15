@@ -1,4 +1,4 @@
-# Quant-MLE-Books-Notes
+# Quant-MLE-Readings-Notes
 
 Taking notes on Quantitative Finance & Machine Learning & Computer Science
 
