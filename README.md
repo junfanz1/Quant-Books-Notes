@@ -72,7 +72,9 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/System%20Design/Notes%20on%20System%20Design.pdf)
 
-# 8. Big Data and AI in Finance, Econometrics and Statistics Conference, 2024 Oct 3-5, UChicago
+# 8. Big Data and AI in Finance, Econometrics and Statistics Conference
+
+BDAI Conference, 2024 Oct 3-5, UChicago
 
 > [Abstract PDF](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Big%20Data%20AI%20in%20Finance%2C%20Econometrics%2C%20Statistics%20Conference%202024/BDAI-2024%20Abstracts.pdf)
 
