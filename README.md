@@ -86,6 +86,12 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
 
+# 10. AI Engineering
+
+AI Engineering: Building Applications with Foundation Models - by Chip Huyen
+
+> [Book Link](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
+
 ---
 
 Connect me: 
@@ -98,38 +104,38 @@ Leave a message to me:
 
 Future Readings:
 
-# 10. Distributed Systems
+# 100. Distributed Systems
 
 深入理解分布式系统，唐伟志 - 2022，电子工业出版社
 
 > [Book Link](https://book.douban.com/subject/35794814/)
 
-# 11. Language Models
+# 101. Language Models
 
 预训练语言模型，邵浩 刘一烽 - 2021，电子工业出版社
 
 > [Book Link](https://book.douban.com/subject/35458428/)
 
-# 12. Designing Machine Learning Systems
+# 102. Designing Machine Learning Systems
 
 Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
 
 > [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
-# 13. Designing Data-Intensive Applications (DDIA)
+# 103. Designing Data-Intensive Applications (DDIA)
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 Book - by Martin Kleppmann
 
 > [Book Link](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
-# 14. Distributed Machine Learning
+# 104. Distributed Machine Learning
 
 分布式机器学习，刘铁岩等 - 2018，机械工业出版社
 
 > [Book Link](https://book.douban.com/subject/30360968/)
 
-# 15. The Elements of Quantitative Investing
+# 105. The Elements of Quantitative Investing
 
 The Elements of Quantitative Investing - by Giuseppe Paleologo 2025
 
