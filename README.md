@@ -90,7 +90,7 @@ BDAI Conference, 2024 Oct 3-5, UChicago
 
 # 10. AI Engineering
 
-AI Engineering: Building Applications with Foundation Models - by Chip Huyen
+AI Engineering: Building Applications with Foundation Models - by Chip Huyen, 2025 O'Reilly
 
 > [Book Link](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
 
@@ -120,7 +120,7 @@ Future Readings:
 
 # 102. Designing Machine Learning Systems
 
-Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen, 2025 O'Reilly
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
 
 > [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
