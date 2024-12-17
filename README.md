@@ -84,7 +84,7 @@ BDAI Conference, 2024 Oct 3-5, UChicago
 
 > [Conference Review Notes PDF](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Big%20Data%20AI%20in%20Finance%2C%20Econometrics%2C%20Statistics%20Conference%202024/Big_Data_Finance_Conference_Notes.pdf) 
 
-# 9. Machine Learning/Large Language Models Interviews Cheatsheet
+# 9. Machine Learning/LLM Interviews Cheatsheet
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
 
