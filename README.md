@@ -120,7 +120,7 @@ Future Readings:
 
 # 102. Designing Machine Learning Systems
 
-Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications - by Chip Huyen, 2025 O'Reilly
 
 > [Book Link](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
