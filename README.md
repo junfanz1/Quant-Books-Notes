@@ -10,6 +10,9 @@ C++ Design Patterns and Derivatives Pricing (Mathematics, Finance and Risk, Seri
 
 > [Book Link](https://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628) 
 
+![image](https://github.com/user-attachments/assets/4cc95940-d8b6-4328-97db-29742bb5ba61)
+
+
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing.pdf)
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing/C%2B%2B%20Design%20Patterns%20Derivatives%20Pricing.md)
