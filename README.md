@@ -23,6 +23,9 @@ An Introduction to High-Frequency Finance, by Ramazan Gençay, et al.
 
 > [Book Link](https://www.amazon.com/Introduction-High-Frequency-Finance-Ramazan-Gen%C3%A7ay/dp/0122796713)
 
+![image](https://github.com/user-attachments/assets/587c8e69-f785-4137-b9f6-c809bb87bb90)
+
+
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/An%20Intro%20to%20High-Frequency%20Finance/Notes%20on%20An%20Introduction%20to%20High-Frequency%20Finance.pdf)
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/An%20Intro%20to%20High-Frequency%20Finance/An%20Introduction%20to%20High-Frequency%20Financ.md)
@@ -33,6 +36,9 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 
 > [Book Link](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
 
+![image](https://github.com/user-attachments/assets/5c2a9362-211e-4372-ac51-1653031e5f7b)
+
+
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.pdf)
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/ML%20for%20Algorithmic%20Trading/Notes%20on%20Machine%20Learning%20for%20Algorithmic%20Trading.md)
@@ -42,6 +48,9 @@ Machine Learning for Algorithmic Trading: Predictive models to extract signals f
 Stochastic Volatility Modeling (Chapman and Hall/CRC Financial Mathematics Series) 1st Edition, by Lorenzo Bergomi
 
 > [Book Link](https://www.amazon.com/Stochastic-Volatility-Modeling-Financial-Mathematics/dp/1482244063)
+
+![image](https://github.com/user-attachments/assets/6c275c02-a757-49bc-9417-d7be1fc709df)
+
 
 - [__PDF Char 1 Intro__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Stochastic%20Volatility%20Modeling/Stochastic%20Volatility%20Modeling%20-%20Char%201%20Introduction%20Notes.pdf)
   
@@ -57,6 +66,9 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
 
 > [Book Link](https://www.amazon.com/Quant-Interview-Questions-Answers-Second/dp/0987122827)
 
+![image](https://github.com/user-attachments/assets/8051e593-da43-4b72-95c3-02a1fb9d5b95)
+
+
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Quant%20Job%20Interview%20Q%26A/Quant%20Essentials%20Takeaways.md)
 
 # 6. Computer Systems
@@ -64,6 +76,9 @@ Quant Job Interview Questions and Answers (Second Edition) – by Mark Joshi 201
 计算机底层的秘密，陆小风 - 2023，电子工业出版社
 
 > [Book Link](https://book.douban.com/subject/36370606/)
+
+![image](https://github.com/user-attachments/assets/5d41a90f-1188-42d2-9a08-b5b3efc33130)
+
 
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Computer%20Systems/Notes%20on%20Computer%20Systems%20-%20Chinese.pdf)
   
@@ -73,11 +88,17 @@ System Design Interview, An Insider's Guide, Second Edition - by Alex Xu 2020, C
 
 > [Book Link](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 
+![image](https://github.com/user-attachments/assets/664fb7c1-6998-4bca-9a1a-687d59a7edac)
+
+
 - [__PDF Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/System%20Design/Notes%20on%20System%20Design.pdf)
 
 # 8. Big Data and AI in Finance, Econometrics and Statistics Conference
 
 BDAI Conference, 2024 Oct 3-5, UChicago
+
+![image](https://github.com/user-attachments/assets/b1ff9d58-2deb-4caa-8370-115539c18abf)
+
 
 > [Abstract PDF](https://github.com/junfanz1/Quant-Books-Notes/blob/main/Big%20Data%20AI%20in%20Finance%2C%20Econometrics%2C%20Statistics%20Conference%202024/BDAI-2024%20Abstracts.pdf)
 
@@ -91,11 +112,7 @@ BDAI Conference, 2024 Oct 3-5, UChicago
 
 - [__Markdown Notes__](https://github.com/junfanz1/Quant-Books-Notes/blob/main/LLM%20Cheat%20Sheet/LLM%20Cheat%20Sheet.md)
 
-# 10. AI Engineering
-
-AI Engineering: Building Applications with Foundation Models - by Chip Huyen, 2025 O'Reilly
-
-> [Book Link](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
+# 10. 
 
 ---
 
